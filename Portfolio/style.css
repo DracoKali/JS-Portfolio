@@ -1,0 +1,131 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 1px dashed red;
+}
+
+.wrapper{
+
+
+	width: 1000px;
+	background-color: #e2e2e2;
+	margin: 0px auto;
+    overflow: hidden;
+    padding: 15px;
+}
+
+#head{
+
+	text-align: left;
+	display: inline-block;
+	margin-left: 40px;
+	height: 50px;
+	padding: 10px;
+
+
+
+}
+.about{
+	background-color: grey;
+	color: white;
+}
+#slogan{
+
+	text-align: right;
+	display: inline-block;
+	margin-left: 420px;
+
+
+
+}
+.background{
+
+   	
+	background: radial-gradient(#6f5963, #544049, #190008);
+	width: 1000px;
+	overflow: hidden;
+	position: relative;
+	
+}
+#content{
+
+	display: inline;
+	height: 400px;
+	
+
+
+}
+#text{
+
+ width: 400px;
+ background-color: white;
+ float: right;
+ padding: 5px;
+ position: relative;
+ height: auto;
+ bottom: 272px;
+ right: 15px;
+	
+}
+
+#news{
+
+  display: inline-flex;
+  overflow: hidden;
+  padding: 10px;
+
+  position: relative;
+  bottom: 245px;
+}
+.La_Mode{
+
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	height: 200px;
+
+
+
+
+}
+.Family{
+
+	margin: 10px;
+	text-align: center;
+	color: white;
+
+
+}
+.Eleven{
+	margin: 10px;
+	text-align: center;
+	color: white;
+
+
+
+
+}
+}
+#mode{
+	
+     margin: 10px;
+
+
+}
+.box2{
+	background-color: grey;
+
+}
+.grey-box{
+	background-color: gray;
+
+}
+#footer{
+	
+	text-align: center;
+	vertical-align: top;
+
+}
+
+
